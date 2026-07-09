@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=00ff00&height=250&section=header&text=Minaofficial&fontSize=70&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=wave&color=00FF7F&height=280&section=header&text=Mina%20AI%20Journey&fontSize=65&fontColor=000000&animation=fadeIn&desc=Computer%20Vision%20%C2%B7%20Data%20Science%20%C2%B7%20Graduate%20School&descSize=20&descAlignY=70)
 <div align="center">
 
 # 👋 Hi, I'm Mina
