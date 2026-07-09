@@ -1,23 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=00ff00&height=250&section=header&text=Minaofficial&fontSize=70&fontColor=000000)
 <div align="center">
 
-# 👋 Hi, I'm Mina
-
-### AI Undergraduate Student
-
-### Interested in Computer Vision & Data Science
+<h2>Hi I'm Mina, I'm interested in Computer Vision & Data Science. 👋</h2>
+<h3>Preparing for Graduate School and building my AI Research Journey.</h3>
 
 ---
 
-🎯 Preparing for Graduate School
-
-📚 Reading AI Papers
-
-🧠 Studying AI Theory
-
-🏆 Participating in Data Science Competitions
+![header](https://capsule-render.vercel.app/api?type=wave&color=00FF00&height=230&section=header&text=Minaofficial&fontSize=65&fontColor=000000&desc=Computer%20Vision%20%C2%B7%20Data%20Science%20%C2%B7%20Graduate%20School&descSize=18&descAlignY=65)
 
 </div>
+
+
 
 ---
 
