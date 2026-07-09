@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=00ff00&height=290&section=header&text=Minaofficial&fontSize=70&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=wave&color=00ff00&height=290&section=header&text=Minaofficial&fontSize=90&fontColor=000000)
 <div align="center">
 
 # 👋 Hi, I'm Mina
