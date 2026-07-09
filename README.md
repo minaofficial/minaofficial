@@ -1,5 +1,5 @@
 <div align="center">
-
+![header](https://capsule-render.vercel.app/api?type=slice)
 # 👋 Hi, I'm Mina
 
 ### AI Undergraduate Student
