@@ -1,6 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=00ff00&height=250&section=header&text=Minaofficial&fontSize=70&fontColor=000000)
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-  ![header](https://capsule-render.vercel.app/api?type=slice)
+
 # 👋 Hi, I'm Mina
 
 ### AI Undergraduate Student
