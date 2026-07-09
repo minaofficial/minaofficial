@@ -19,71 +19,67 @@
 
 ---
 
-## 🧑 About Me
+<hr/>
 
-- 🎓 Undergraduate Student in Artificial Intelligence
-- 🔬 Interested in Computer Vision & Data Science
-- 📚 Preparing for Graduate School
-- 💻 Learning by reading papers and implementing them
+<h2>🧑 About Me</h2>
 
-  ## 🔬 Research Interest
+<ul>
+<li>🎓 Undergraduate Student in Artificial Intelligence</li>
+<li>🔬 Interested in Computer Vision & Data Science</li>
+<li>📚 Preparing for Graduate School</li>
+<li>💻 Learning by reading papers and implementing them</li>
+</ul>
 
-- Computer Vision
+<hr/>
 
-- Vision Language Model
+<h2>🔬 Research Interest</h2>
 
-- Image Segmentation
+<ul>
+<li>Computer Vision</li>
+<li>Vision Language Models</li>
+<li>Image Segmentation</li>
+<li>Machine Learning</li>
+<li>Data Science</li>
+</ul>
 
-- Machine Learning
+<hr/>
 
-- Data Science
+<h2>📚 Current Study</h2>
 
-## 📚 Current Study
+<ul>
+<li>✔ Computer Vision Theory</li>
+<li>✔ CNN</li>
+<li>✔ ResNet</li>
+<li>✔ Vision Transformer (ViT)</li>
+<li>✔ YOLO</li>
+<li>✔ Segment Anything Model (SAM)</li>
+<li>✔ LISA</li>
+<li>✔ TOEFL</li>
+<li>✔ Data Science Competitions</li>
+</ul>
 
-✔ Computer Vision Theory
+<hr/>
 
-✔ CNN
+<h2>⚡ Tech Stack</h2>
 
-✔ ResNet
-
-✔ ViT
-
-✔ YOLO
-
-✔ SAM
-
-✔ LISA
-
-✔ TOEFL
-
-✔ Data Science Competition
-
-
-## ⚡ Tech Stack
-
-### 💻 Language
+<h3>💻 Language</h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
-
-### 📚 Stack
+<h3>📚 Stack</h3>
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-4B8BBE?style=flat-square&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
----
-
-### 🛠 Tools
+<h3>🛠 Tools</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -92,30 +88,42 @@
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
-## 🚀 Featured Projects
+<hr/>
 
-📌 Emotion Recognition
+<h2>🚀 Featured Projects</h2>
 
-📌 Lane Detection
+<ul>
+<li>📌 Emotion Recognition</li>
+<li>📌 Lane Detection</li>
+<li>📌 Han River Bus Analysis</li>
+<li>📌 Accessible SOC Analysis</li>
+</ul>
 
-📌 Han River Bus Analysis
+<hr/>
 
-📌 Accessible SOC Analysis
+<h2>📖 Current Paper Review</h2>
 
-## 📖 Current Paper Review
+<ul>
+<li>Currently reviewing papers and implementing them.</li>
+</ul>
 
+<hr/>
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minaofficial&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minaofficial&layout=compact&theme=tokyonight)
 
-## 📌 Planned Repositories
+<hr/>
 
-- AI-Study
-- Projects
-- Paper-Implementation
-- Competition
-- Portfolio
-- Computer-Vision
+<h2>📌 Planned Repositories</h2>
+
+<ul>
+<li>AI-Study</li>
+<li>Projects</li>
+<li>Paper-Implementation</li>
+<li>Competition</li>
+<li>Portfolio</li>
+<li>Computer-Vision</li>
+</ul>
