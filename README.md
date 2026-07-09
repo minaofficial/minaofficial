@@ -5,7 +5,8 @@
 # 👋 Hi, I'm Mina
 
 ## AI Undergraduate Student
-##Interested in Computer Vision & Data Science
+
+## Interested in Computer Vision & Data Science
 
 ---
 
