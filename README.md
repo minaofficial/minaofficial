@@ -102,21 +102,3 @@
 
 <hr/>
 
-<h2>📊 GitHub Stats</h2>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=minaofficial&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minaofficial&layout=compact&theme=tokyonight)
-
-<hr/>
-
-<h2>📌 Planned Repositories</h2>
-
-<ul>
-<li>AI-Study</li>
-<li>Projects</li>
-<li>Paper-Implementation</li>
-<li>Competition</li>
-<li>Portfolio</li>
-<li>Computer-Vision</li>
-</ul>
