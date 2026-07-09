@@ -99,6 +99,3 @@
 <ul>
 <li>Currently reviewing papers and implementing them.</li>
 </ul>
-
-<hr/>
-
