@@ -47,12 +47,7 @@
 
 <ul>
 <li>✔ Computer Vision Theory</li>
-<li>✔ CNN</li>
-<li>✔ ResNet</li>
 <li>✔ Vision Transformer (ViT)</li>
-<li>✔ YOLO</li>
-<li>✔ Segment Anything Model (SAM)</li>
-<li>✔ LISA</li>
 <li>✔ TOEFL</li>
 <li>✔ Data Science Competitions</li>
 </ul>
@@ -92,13 +87,12 @@
 <h2>🚀 Featured Projects</h2>
 
 <ul>
-<li>📌 Emotion Recognition</li>
-<li>📌 Lane Detection</li>
-<li>📌 Han River Bus Analysis</li>
-<li>📌 Accessible SOC Analysis</li>
+<li>🚲 Public Bike Rebalancing Route Optimization</li>
+<li>🚌 Han River Bus Data Analysis</li>
+<li>♿ Accessible Living SOC Analysis</li>
+<li>😊 Facial Emotion Recognition</li>
+<li>🛣 Lane Detection using OpenCV</li>
 </ul>
-
-<hr/>
 
 <h2>📖 Current Paper Review</h2>
 
