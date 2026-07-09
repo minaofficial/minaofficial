@@ -3,9 +3,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Mina
-
 ## AI Undergraduate Student
-
 ## Interested in Computer Vision & Data Science
 
 ---
@@ -68,31 +66,43 @@
 
 ### Language
 
-Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-R
 
-SQL
+## ⚡ Tech Stack
 
-### Framework
+### 💻 Language
 
-PyTorch
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-TensorFlow
+---
 
-OpenCV
+### 📚 Stack
 
-Scikit-learn
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-4B8BBE?style=flat-square&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
-### Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-Pandas
+---
 
-NumPy
+### 🛠 Tools
 
-Matplotlib
-
-Tableau
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
 ## 🚀 Featured Projects
 
@@ -106,15 +116,6 @@ Tableau
 
 ## 📖 Current Paper Review
 
-- ViT
-
-- SAM
-
-- LISA
-
-- Grounding DINO
-
-- YOLOv11
 
 ## 📊 GitHub Stats
 
@@ -122,14 +123,11 @@ Tableau
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minaofficial&layout=compact&theme=tokyonight)
 
-AI-Study
+## 📌 Planned Repositories
 
-Projects
-
-Paper-Implementation
-
-Competition
-
-Portfolio
-
-Computer-Vision
+- AI-Study
+- Projects
+- Paper-Implementation
+- Competition
+- Portfolio
+- Computer-Vision
