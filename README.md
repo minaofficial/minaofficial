@@ -7,7 +7,7 @@
 <h3>AI Undergraduate Student</h3>
 <h3>Interested in Computer Vision & Data Science</h3>
 
-
+</div>
 
 
 
@@ -87,8 +87,6 @@
 <li>🛣 Lane Detection using OpenCV</li>
 </ul>
 
-<h2>📖 Current Paper Review</h2>
+<!-- <h2>📖 Current Paper Review</h2> -->
 
-<ul>
-<li>Currently reviewing papers and implementing them.</li>
-</ul>
+
