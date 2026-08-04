@@ -7,14 +7,7 @@
 <h3>AI Undergraduate Student</h3>
 <h3>Interested in Computer Vision & Data Science</h3>
 
-<br/>
 
-<p>🎯 Preparing for Graduate School</p>
-<p>📚 Reading AI Papers</p>
-<p>🧠 Studying AI Theory</p>
-<p>🏆 Participating in Data Science Competitions</p>
-
-</div>
 
 
 
