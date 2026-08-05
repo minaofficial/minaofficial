@@ -16,10 +16,15 @@
 <h2>🧑 About Me</h2>
 
 <ul>
-<li>🎓 Undergraduate Student in Artificial Intelligence</li>
+<li>🎓 B.S. Student in Artificial Intelligence
+<li>🔬 Interested in Computer Vision & Data Science
+<li>💻 Building AI projects with Python, OpenCV and PyTorch
+<li>📚 Studying research papers and implementing state-of-the-art models
+<li>🤝 Interested in both AI Research and AI Applications
+<!-- <li>🎓 Undergraduate Student in Artificial Intelligence</li>
 <li>🔬 Interested in Computer Vision & Data Science</li>
-<li>📚 Preparing for Graduate School</li>
-<li>💻 Learning by reading papers and implementing them</li>
+<li>📚 Preparing for Graduate School</li>![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+<li>💻 Learning by reading papers and implementing them</li> -->
 </ul>
 
 <hr/>
@@ -36,23 +41,10 @@
 
 <hr/>
 
-<h2>📚 Current Study</h2>
-
-<ul>
-<li>✔ Computer Vision Theory</li>
-<li>✔ Vision Transformer (ViT)</li>
-<li>✔ TOEFL</li>
-<li>✔ Data Science Competitions</li>
-</ul>
-
-<hr/>
-
-<h2>⚡ Tech Stack</h2>
 
 <h3>💻 Language</h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 <h3>📚 Stack</h3>
