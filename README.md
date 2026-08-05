@@ -7,7 +7,7 @@
 <li>🎓 B.S. Student in Artificial Intelligence
 <li>🔬 Interested in Computer Vision & Data Science
 <li>💻 Building AI projects with Python, OpenCV and PyTorch
-<li>📚 Studying research papers and implementing state-of-the-art models
+<li>📚 Learning AI through research papers and hands-on projects
 <li>🤝 Interested in both AI Research and AI Applications
 <!-- <li>🎓 Undergraduate Student in Artificial Intelligence</li>
 <li>🔬 Interested in Computer Vision & Data Science</li>
