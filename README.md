@@ -1,17 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=00ff00&height=290&section=header&text=Minaofficial&fontSize=80&fontColor=000000&animation=fadeIn)
 
-<div align="center">
-
-<h1>👋 Hi, I'm Mina</h1>
-
-<h3>AI Undergraduate Student</h3>
-<h3>Interested in Computer Vision & Data Science</h3>
-
-</div>
-
-
-
-<hr/>
 
 <h2>🧑 About Me</h2>
 
